@@ -1,5 +1,40 @@
 # 💫 About Me:
-I am a motivated and detail-oriented Python Developer and AI/ML enthusiast with a strong academic foundation in Computer Applications & IT. I am passionate about building intelligent systems, solving real-world problems, and continuously upgrading my technical skills.<br><br>I have hands-on experience in:<br><br>Python programming and backend development<br>Machine Learning and Deep Learning fundamentals<br>Computer Vision using OpenCV<br>Data handling using NumPy and Pandas<br>Basic Cybersecurity and SOC concepts<br>SQL and database management<br><br>Through academic projects and self-learning, I have developed AI-based models, web applications, and automation tools. I enjoy working on innovative ideas, experimenting with emerging technologies like Generative AI, and improving system efficiency through smart solutions.<br><br>I am currently seeking opportunities as a Python Developer, AI/ML Engineer, or SOC Analyst, where I can apply my technical knowledge, contribute to impactful projects, and grow in a challenging environment.
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>About Me</title>
+</head>
+<body>
+
+    <section>
+        <h2>About Me</h2>
+        
+        <p>
+            Passionate <strong>Python Developer</strong> and 
+            <strong>AI/ML Enthusiast</strong> with strong skills in 
+            <strong>Machine Learning, Computer Vision, and Backend Development</strong>.
+        </p>
+
+        <p>
+            Experienced in building <strong>intelligent real-world applications</strong> 
+            using Python, OpenCV, and modern development tools.
+        </p>
+
+        <p>
+            Focused on <strong>problem-solving, automation, and emerging technologies 
+            like Generative AI</strong>.
+        </p>
+
+        <p>
+            Actively seeking opportunities as an 
+            <strong>AI/ML Engineer, Python Developer, or SOC Analyst</strong> 
+            to contribute, learn, and grow in a dynamic tech environment.
+        </p>
+    </section>
+
+</body>
+</html>
 
 
 ## 🌐 Socials:
