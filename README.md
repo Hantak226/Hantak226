@@ -1,40 +1,9 @@
 # 💫 About Me:
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>About Me</title>
-</head>
-<body>
+Passionate Python Developer and AI/ML Enthusiast with strong skills in Machine Learning, Computer Vision, and Backend Development. Experienced in building intelligent real-world applications using Python, OpenCV, and modern tools.
 
-    <section>
-        <h2>About Me</h2>
-        
-        <p>
-            Passionate <strong>Python Developer</strong> and 
-            <strong>AI/ML Enthusiast</strong> with strong skills in 
-            <strong>Machine Learning, Computer Vision, and Backend Development</strong>.
-        </p>
+Focused on problem-solving, automation, and emerging technologies like Generative AI.
 
-        <p>
-            Experienced in building <strong>intelligent real-world applications</strong> 
-            using Python, OpenCV, and modern development tools.
-        </p>
-
-        <p>
-            Focused on <strong>problem-solving, automation, and emerging technologies 
-            like Generative AI</strong>.
-        </p>
-
-        <p>
-            Actively seeking opportunities as an 
-            <strong>AI/ML Engineer, Python Developer, or SOC Analyst</strong> 
-            to contribute, learn, and grow in a dynamic tech environment.
-        </p>
-    </section>
-
-</body>
-</html>
+Actively seeking opportunities as an AI/ML Engineer, Python Developer, or SOC Analyst to contribute, learn, and grow in a dynamic tech environment. 🚀
 
 
 ## 🌐 Socials:
